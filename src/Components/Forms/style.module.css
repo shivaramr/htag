@@ -1,0 +1,11 @@
+.form{
+    height: 27rem;
+    text-align: center;
+    border-radius: 3vmin;
+    margin-bottom: 2vh;
+    padding-top: 3%;
+    background-color: #242424;
+    display: flex;
+    justify-content: 'center';
+    align-items: 'center';
+}

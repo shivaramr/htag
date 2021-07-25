@@ -1,0 +1,23 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.logo{
+    height: 1.5rem;
+    width: 10rem;
+}
+.button{
+    height: 4vh;
+    /* width: 9vw; */
+    margin: 0.5vmin;
+    border: transparent;
+    color: #c5c5c5;
+    background-color: #121212;
+}
+.button:hover{
+    /* background-color: black; */
+    color: #fff;
+    border-radius: 5vmax;
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.main{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.input{
+    height: 3vh;
+    margin-left: 2vw;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid#06FB8B;
+    border-radius: 10vmax;
+}
+.input:active{
+    background-color: transparent;
+    border: 1px solid#06FB8B;
+    border-radius: 10vmax;
+    color: #fff;
+}
